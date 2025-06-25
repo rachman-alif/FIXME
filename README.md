@@ -4,6 +4,7 @@ Tujuan utama dari analisis dataset ini adalah:
 
 2.) Membangun model prediktif yang dapat membantu memprediksi penyakit hati pada pasien.
 
+
 Untuk mendukung analisis dataset, skema komparasi model prediksi dilakukan dengan 2 pendekatan berbeda:
 
 1.) Menggunakan SMOTE: Model akan dibangun dengan memanfaatkan data hasil augmentasi menggunakan Synthetic Minority Oversampling Technique (SMOTE) untuk menangani ketidakseimbangan kelas pada dataset dan meningkatkan performa klasifikasi penyakit hati.
